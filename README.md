@@ -3,6 +3,15 @@
 Este projeto é uma aplicação web feita com **Python** e **Streamlit** que utiliza **inteligência artificial generativa (Gemini)** para analisar conversas de vendas com base na metodologia **SPIN Selling**.
 
 ---
+### 💻 Teste agora!
+
+Você pode testar a aplicação diretamente online, sem instalar nada:
+
+👉 [Clique aqui para acessar a aplicação no Streamlit](https://spinsellinganalysis.streamlit.app/)
+
+[![Abrir no Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spinsellinganalysis.streamlit.app/)
+
+---
 
 ## 🚀 Funcionalidades
 
